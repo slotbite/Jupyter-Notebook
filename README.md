@@ -1,1 +1,1 @@
-Jupyter-Notebook
+Laboratorio de cursos
